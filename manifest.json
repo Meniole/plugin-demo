@@ -8,5 +8,6 @@
       "description": "Triggers a demo of the plugin capabilities."
     }
   },
-  "configuration": {}
+  "configuration": {},
+  "homepage_url": "https://ubiquity-os-plugin-demo-development.fernand-veyrier.workers.dev"
 }
