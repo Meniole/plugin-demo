@@ -31,7 +31,7 @@ jobs:
         id: wrangler_deploy
         uses: cloudflare/wrangler-action@v3
         with:
-          wranglerVersion: "3.114.1"
+          wranglerVersion: "3.79.0"
           workingDirectory: "src/email"
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
