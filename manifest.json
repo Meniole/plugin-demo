@@ -8,6 +8,6 @@
     "type": "object",
     "properties": {}
   },
-  "homepage_url": "https://ubiquity-os-plugin-demo-development.fernand-veyrier.workers.dev",
+  "homepage_url": "https://ubiquity-os-plugin-demo-main.fernand-veyrier.workers.dev",
   "short_name": "Meniole/plugin-demo@main"
 }
